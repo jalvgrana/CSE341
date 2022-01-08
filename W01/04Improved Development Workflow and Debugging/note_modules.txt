@@ -1,0 +1,3 @@
+The folder "node_modules" was installed because I thought it was not needed to upload 800+ files into Github.
+It can be brought back into the project having a console opened on this same folder and running the command:
+npm install
