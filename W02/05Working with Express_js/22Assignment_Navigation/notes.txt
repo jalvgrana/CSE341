@@ -1,0 +1,6 @@
+npm init
+npm install --save express
+npm install --save-dev nodemon
+En package.json tengo que escribir y tiene que quedar así (ojo con la coma):
+"test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
